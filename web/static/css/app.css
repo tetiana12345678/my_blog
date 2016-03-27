@@ -23,12 +23,20 @@ form.link, form.button {
   border-bottom: 1px solid #e5e5e5;
 }
 .logo {
-  width: 519px;
+  width: 710px;
   height: 71px;
   display: inline-block;
   margin-bottom: 1em;
-  background-image: url("/images/phoenix.png");
+  background-image: url("/images/blog_header.jpg");
   background-size: 519px 71px;
+}
+
+.welcome {
+  display: inline-block;
+  margin-left: 17em;
+  margin-top: 1em;
+  font-size: 20px;
+  font-weight: 900;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
